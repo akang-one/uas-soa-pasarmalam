@@ -25,3 +25,7 @@ Kelompok 3 (pengembang frontend dan View):
 - david
 - m ridwan
 -
+
+
+aplikasinya ada di sini: 
+https://github.com/akang-one/myshop
